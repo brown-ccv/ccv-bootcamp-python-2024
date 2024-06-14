@@ -5,6 +5,8 @@ to Python and data wrangling.
 
 [Slides for Python Programming Basics](https://docs.google.com/presentation/d/1WYDiY4YUd78zdWkum3kkSNI6ZnTd6C_PMwNRZPCi37Y/edit?usp=sharing)
 
+[Slides for Python Best Practices](https://docs.google.com/presentation/d/1M1lyo4br9WxOCklidJdCm77o7mfhFkt3OmAo5yhJqpk/edit?usp=sharing)
+
 # Authors
 
 Ellen Duong, George Dang, and Ford McDonald
