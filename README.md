@@ -21,4 +21,5 @@ This workshop will use Jupyter notebooks through JupyterHub. To start a new inst
 ✨[Start JupyterHub](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fccv-bootcamp-python-2024&urlpath=lab%2Ftree%2Fccv-bootcamp-python-2024%2Fnotebooks%2F0.0-jgh-project-setup.ipynb&branch=main)✨
 
 
+---
 [Brown CCV](https://ccv.brown.edu)
